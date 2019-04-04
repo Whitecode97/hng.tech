@@ -26,15 +26,15 @@
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
            <div class="intern-block border-blue">
-     					<img src="../app/img/ahless.png" alt="Alexander Garuba">
-     					  <h6>Alexander Garuba</h6>
-                 <p>Frontend developer</p>
+     					<img src="../app/img/eve.jpg" alt="Evelyn Anthony">
+     					  <h6>Evelyn Anthony</h6>
+                 <p>Android Developer</p>
                  <ul class="list">
-                 <li><a href="https://twitter.com/ahless007" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="https://github.com/ahless007" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="https://medium.com/@ahless" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://twitter.com/Whitecode97" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/Whtecode97" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://katchx.blogspot.com" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="../intern/ahless007" class="btn-view">View profile</a>
+     					    <a href="../intern/Whitecode" class="btn-view">View profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
